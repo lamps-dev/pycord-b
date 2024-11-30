@@ -28,6 +28,11 @@ Pycord-b is a pycord fork.
 
 ======
 
+Note
+----
+
+Pycord supports Python ``3.9`` - ``3.12``
+
 Key Features
 ------------
 
